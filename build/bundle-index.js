@@ -1,0 +1,1 @@
+$(document).ready(function(){$("#about-button").on("click",function(){alert("You are inside ABOUT page and you clicked ABOUT's button.")})}),$(document).ready(function(){$("#contact-button").on("click",function(){alert("You are inside CONTACT page and you clicked CONTACT's button.")})});

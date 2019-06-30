@@ -1,0 +1,32 @@
+body{
+    margin: 20px;
+    background-color: #FFE4C4;
+    width: 100%;
+    height: 100%;
+}
+
+h1{
+    font-weight: bold;
+    color: #50f6ff;
+}
+
+p{
+    color: #680000;
+}
+
+.first-table th,
+.first-table td{
+    border: 1px solid #000000;
+}
+
+.first-table tr th{
+    width: 200px;
+    text-align: left;
+}
+
+.first-table td button{
+    background-color: #7FFF00;
+    width: 100%;
+    font-weight: bold;
+    color: #000000;
+}

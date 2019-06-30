@@ -1,0 +1,19 @@
+#home-page{
+  .first-table{
+    th, td{
+      border: 1px solid #000000;
+    }
+
+    tr th{
+      width: 200px;
+      text-align: left;
+    }
+
+    td button{
+      background-color: #7FFF00;
+      width: 100%;
+      font-weight: bold;
+      color: #000000;
+    }
+  }
+}
